@@ -3,7 +3,7 @@
 Name: Philip Machinga
 Project Members: individual
 GitHub Link: https://github.com/trononly/ai-racing-final-philip
-Final snapshot: https://github.com/trononly/ai-racing-final-philip/commit/ab12b04cfec53e74bc86886570a9bcf955c75643
+Final snapshot: https://github.com/trononly/ai-racing-final-philip/commit/6f1d429ee288342701df123c6c96ee78a9264085
 Video Demonstration: https://drive.google.com/file/d/1AYkXQDLTlXWDD553WnwIZWVjVwA16zed/view?usp=sharing
 
 ## Problem statement
