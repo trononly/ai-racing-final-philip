@@ -1,0 +1,9 @@
+run_id,script,track,settings,change,lap_completed,lap_time_seconds,damage_start,damage_end,decision,notes
+R01,torcs_jm_par.py,Corkscrew scr_server1 1lap standing,baseline Day1,~2:20 clean start,yes,140.7,0,0,keep,top 84 crawl 15s
+R02,torcs_jm_par.py,Corkscrew scr_server1 1lap standing,RPM gears + adaptive v3,yes,124.34,0,0,keep,top 161 corners 50-60
+R03,torcs_jm_par.py,Corkscrew scr_server1 1lap standing,planner kill sensor-only,yes,110.0,0,0,keep,laps 2+ match lap1
+R04,torcs_jm_par.py,Corkscrew scr_server1 1lap standing,centre/side split + yaw brakes + 0.40 tiers,yes,98.34,0,0,keep,PB Day3 straight 300
+R05,torcs_jm_par.py,Corkscrew scr_server1 1lap standing,median fan + decel 11,yes,97.94,0,0,keep,commit 9ce53b1
+R06,torcs_jm_par.py,Corkscrew scr_server1 1lap standing,trail-brake taper,yes,96.13,0,0,keep,commit 030a30c PB
+R07,torcs_jm_par.py,Corkscrew scr_server1 1lap standing,looser TC 3.5/6.0/40pct,yes,96.10,0,0,keep PB FINAL commit aae4378
+R08,torcs_jm_par.py,Corkscrew scr_server1 1lap standing,repeat control before hybrid,yes,96.10,0,0,keep,telemetry_clean_136.csv 448 rows 0 offtrack
