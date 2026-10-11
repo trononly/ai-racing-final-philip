@@ -27,7 +27,7 @@ Track Corkscrew, scr_server 1, 1 lap standing start, damage 0 unless noted:
 - ~1:50s clean after planner kill (Day 2)
 - 1:38:34 clean (Day 3)
 - 1:37.94 / 1:36:13 / 1:36:10 clean PB (Day 4, commits 9ce53b1/030a30c/aae4378)
-See `experiment_results.csv` and `evidence/day1_report.md`, `evidence/day2_report.md`, `evidence/telemetry.csv` (step log every 10 steps, not lap_data.csv schema).
+See `experiment_results.csv` and `evidence/day1_report.md`, `evidence/day2_report.md`, `evidence/telemetry_clean_136.csv` (step log every 10 steps, not lap_data.csv schema).
 
 ## Enhancements
 1. Centre-median + asymmetric side-fan target with `v(d)=sqrt(vc^2+2*11*d)` braking profile - fixed straights capped at ~122, now 300 on straights. Evidence: Day 3 PB 1:38:34.
